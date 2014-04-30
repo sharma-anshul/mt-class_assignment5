@@ -1,4 +1,6 @@
-# <vid> Language Identification - Anshul Sharma
+# Language Identification
+
+Project subdirectory: vid
 
 The problem posed by vid's project was of language identifcation. Using the training data, I created ngram frequency vectors. I did the same thing for the test data and calculated the dot product for each language. 
 
@@ -12,3 +14,5 @@ To grade:
 
 > python grade < output
 
+
+Anshul Sharma
